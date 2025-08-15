@@ -9,6 +9,8 @@
 <p align="left">
  ${\textsf{\color{#a94920}@aesvic's　alt　!　i　spam　follow ,}}$ <br>
    ${\textsf{\color{#a94920}if　that　bothers　you ,　feel　free　to　block　.}}$ <br>
+   ${\textsf{\color{#a94920}i　dont　check　profiles　,　dont　dt　me　thanks　!}}$ <br>
+
 
  <br>  <br>
 

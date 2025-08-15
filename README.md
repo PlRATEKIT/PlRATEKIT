@@ -20,7 +20,7 @@
 
    ${\textsf{\color{#b04e22}sign　my　ata　✦　feel　free　to　interact}}$<br>
     ${\textsf{\color{#b04e22}i　really　like　subkit　,　sorry　guys　!}}$ <br>
-    ${\textsf{\color{#b04e22}prerewrite　predisaster　,　my　goat}}$ <br>
+    ${\textsf{\color{#b04e22}is　that　limbus　company　.}}$ <br>
 
    
 </h5>

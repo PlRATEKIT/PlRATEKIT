@@ -1,3 +1,5 @@
+ignore this, i'm experimenting with the scripting n such
+
 <table border="0">
      <tr>
        <td>
@@ -16,7 +18,7 @@
  <p align="center">     
  ${\textsf{\color{#a94920}@aesvic's　alt　!　i　spam　follow ,}}$ <br>
    ${\textsf{\color{#a94920}if　that　bothers　you ,　feel　free　to　block　.}}$ <br>
-   ${\textsf{\color{#a94920}i　dont　check　profiles　,　dont　dt　me　thanks　!}}$ <br></p>
+   ${\textsf{\color{#a94920}i　dont　check　profiles　,　dont　dt　me　!}}$ <br></p>
  <br>  <br>
 
 

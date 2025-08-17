@@ -1,5 +1,3 @@
-ignore this, i'm experimenting with the scripting n such
-
 <table border="0">
      <tr>
        <td>

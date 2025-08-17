@@ -32,7 +32,7 @@ ignore this, i'm experimenting with the scripting n such
  <br>  <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Neuton&duration=2000&pause=1000&size=22&color=7A2C18&center=true&width=435&lines=I+must+be+the+reason+why;you+have+given+up+your+smiles+%2C;and+the+hope+inside+your+eyes+have+been+stolen+.;I+must+be+the+reason+why;you+must+tell+me+all+these+lies+.;Wishing+you+a+better+life+without+me+by+your+side+." width="300" height="auto"></img></p>
+<img src="https://readme-typing-svg.demolab.com?font=Neuton&duration=2000&pause=1000&size=23&color=7A2C18&center=true&width=435&lines=I+must+be+the+reason+why;you+have+given+up+your+smiles+%2C;and+the+hope+inside+your+eyes+have+been+stolen+.;I+must+be+the+reason+why;you+must+tell+me+all+these+lies+.;Wishing+you+a+better+life+without+me+by+your+side+." width="230" height="auto"></img></p>
  <br>  <br>
  
 <p align="center">

@@ -7,7 +7,7 @@ ignore this, i'm experimenting with the scripting n such
 
 <div align="center">
    
- <img src="https://github.com/user-attachments/assets/2cc9bb9d-c9cd-46f1-868c-48bb4c7edfe7" width="auto" height="10%" title="graphic is not mine!"></a>
+ <img src="https://github.com/user-attachments/assets/2cc9bb9d-c9cd-46f1-868c-48bb4c7edfe7" width="950" height="auto" title="graphic is not mine!"></a>
 
   
 <img src="https://github.com/user-attachments/assets/2c4d868c-8599-44f7-ae60-d144bdd3cca9" align="right" width="55%" alt="hey guys" title="i drew this ! >_<"></a>
@@ -44,7 +44,7 @@ ignore this, i'm experimenting with the scripting n such
 
 <a href="https://medkit.atabook.org"> atabook</a> <a href="https://aesvic.straw.page">strawpage</a> <a href="https://rentry.co/victor-grantz">link directory</a> <a href="https://guns.lol/exorspace">guns.lol</a>
 
- <img src="https://github.com/user-attachments/assets/6c0aef84-4cec-494e-8735-60d75c1f0c72" width="auto" height="10%" title="graphic is not mine!" ></a>
+ <img src="https://github.com/user-attachments/assets/6c0aef84-4cec-494e-8735-60d75c1f0c72" width="950" height="auto" title="graphic is not mine!" ></a>
 
 
 </h5>

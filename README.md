@@ -16,9 +16,9 @@ ignore this, i'm experimenting with the scripting n such
   <br>  <br>  <br>  <br>
 
  <p align="center">     
- ${\textsf{\color{#a94920}@aesvic's　alt　!　i　spam　follow ,}}$ <br>
-   ${\textsf{\color{#a94920}if　that　bothers　you ,　feel　free　to　block　.}}$ <br>
-   ${\textsf{\color{#a94920}i　dont　check　profiles　,　dont　dt　me　!}}$ <br></p>
+ ${\textsf{\color{#a94920}@aesvic's alt, i spam follow !}}$ <br>
+   ${\textsf{\color{#a94920}if this bothers you, feel free to block .}}$ <br>
+   ${\textsf{\color{#a94920}i don't check profiles, don't dt me .}}$ <br></p>
  <br>  <br>
 
 
@@ -27,8 +27,8 @@ ignore this, i'm experimenting with the scripting n such
 
            
 <p align="center">
-   ${\textsf{\color{#b04e22}aesop　or　exor　✦　he　/　any}}$<br>
-    ${\textsf{\color{#b04e22}whisper　to　int　✦　c+h　in　a　dnt　world}}$ <br>
+   ${\textsf{\color{#b04e22}aesop or exor ✦ he / any}}$<br>
+    ${\textsf{\color{#b04e22}whisper to int ✦ c+h in a dnt world}}$ <br>
  <br>  <br>
 
 <p align="center">
@@ -36,9 +36,9 @@ ignore this, i'm experimenting with the scripting n such
  <br>  <br>
  
 <p align="center">
-   ${\textsf{\color{#b04e22}sign　my　ata　✦　feel　free　to　interact}}$<br>
-    ${\textsf{\color{#b04e22}i　really　like　subkit　,　sorry　guys　!}}$ <br>
-    ${\textsf{\color{#b04e22}is　that　limbus　company　.}}$ <br>
+   ${\textsf{\color{#b04e22}sign my ata ✦ feel free to interact}}$<br>
+    ${\textsf{\color{#b04e22}i really like subkit , sorry guys !}}$ <br>
+    ${\textsf{\color{#b04e22}is that limbus company .}}$ <br>
  <br>  <br>
 
 

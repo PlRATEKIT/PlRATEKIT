@@ -50,7 +50,7 @@
  <br>
 
 <p align="center"> 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=predisasters&color=b04e22&plastic&label=⠀DISEASE+;⠀"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=PlRATEKIT&color=b04e22&plastic&label=⠀DISEASE+;⠀"></img></p>
  <br>
  
 <p align="center">
